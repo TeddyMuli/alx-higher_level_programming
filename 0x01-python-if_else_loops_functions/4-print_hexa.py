@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in range(99):
-    print(f"{i:2d} = 0x{i:2X}")
+    print("{:2d} = 0x{:2x}".format(i,i))
