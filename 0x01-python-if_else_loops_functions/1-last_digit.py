@@ -5,7 +5,7 @@ if number >= 0:
     last = number % 10;
 else:
     last = (number * -1) % 10 *-1
-message = f"The last digit of {number} is {last} and "
+message = f"Last digit of {number} is {last} and "
 if last > 5:
     print(f"{message}is greater than 5")
 elif last == 0:
