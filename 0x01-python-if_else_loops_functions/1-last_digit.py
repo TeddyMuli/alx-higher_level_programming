@@ -11,4 +11,4 @@ if last > 5:
 elif last == 0:
     print(f"{message}is 0")
 elif last <-6 and last != 0:
-    print(f"{message}is and is less than 6 and not 0")
+    print(f"{message} is less than 6 and not 0")
