@@ -1,0 +1,1 @@
+        print(magic_string())
