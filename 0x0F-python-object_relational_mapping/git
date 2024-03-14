@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+git add . ; git commit -m"0x0F-python-object_relational_mapping/"[[C[C[C; git push
