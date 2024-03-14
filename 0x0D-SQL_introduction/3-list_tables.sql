@@ -1,0 +1,2 @@
+-- List Databases
+SHOW TABLES;
