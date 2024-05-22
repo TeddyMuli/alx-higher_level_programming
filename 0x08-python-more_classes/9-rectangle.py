@@ -59,7 +59,7 @@ class Rectangle:
             [rect.append(str(self.print_symbol)) for j in range(self.__width)]
             if i != self.__height - 1:
                 rect.append("\n")
-        return ("".join(rect))       
+        return ("".join(rect))
     """Print Something"""
     def __repr__(self):
         return f"Rectangle({self.width}, {self.height})"
@@ -78,6 +78,7 @@ class Rectangle:
             return rect_1
         else:
             return rect_2
+
     @classmethod
     def square(cls, size=0):
         return cls(size, size)
