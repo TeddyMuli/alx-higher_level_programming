@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
 """A class for a rectangle"""
+
+
 class Rectangle:
     """The public attributes"""
     number_of_instances = 0

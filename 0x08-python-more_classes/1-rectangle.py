@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """A class for a rectangle"""
+
+
 class Rectangle:
     """The constructor"""
     def __init__(self, width=0, height=0):
